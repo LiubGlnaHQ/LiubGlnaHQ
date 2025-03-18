@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm LiubGlnhHQ 
 
-<!--
-**LiubGlnaHQ/LiubGlnaHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 **Why "LiubGlnaHQ"? | 用户名的秘密**
+- 实际上是"Light"的Base64编码（bGlnaHQ= 的变体）
+- 两年前随手敲的"中二密码"
+- 证明：echo 'bGlnaHQ=' | base64 -d 👉 light
 
-Here are some ideas to get you started:
+### 💻 **About Me | 关于我**
+- 🎓 3rd-year CS student passionate about **Test Automation & DevOps**  
+- 🔍 Obsessed with building robust systems through **"Prevention > Debugging"** philosophy  
+- 🌱 Currently sharpening my claws with [Selenium](https://www.selenium.dev/) & [Jenkins](https://www.jenkins.io/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Toolbox | 技术栈**
+```text
+🐍 Python      | 🍵 Java       | 🪣 SQL
+⚡ Selenium    | 🧪 JUnit      | 🐳 Docker
+🔗 CI/CD       | 📊 Jira       | 🛠️ Postman
